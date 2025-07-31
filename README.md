@@ -1,2 +1,2 @@
 # LeetcodeSolutions
-Daily leetcode practice solutions
+Daily leetcode/gfg practice solutions
