@@ -18,6 +18,7 @@ Daily leetcode/gfg practice solutions
 | [0377-combination-sum-iv](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,5 @@ Daily leetcode/gfg practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 <!---LeetCode Topics End-->
