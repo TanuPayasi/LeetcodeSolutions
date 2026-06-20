@@ -16,6 +16,7 @@ Daily leetcode/gfg practice solutions
 | [0279-perfect-squares](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0377-combination-sum-iv/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -52,4 +53,8 @@ Daily leetcode/gfg practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 <!---LeetCode Topics End-->
