@@ -17,6 +17,7 @@ Daily leetcode/gfg practice solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0279-perfect-squares](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0279-perfect-squares/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -35,6 +36,7 @@ Daily leetcode/gfg practice solutions
 | [0120-triangle](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -46,6 +48,7 @@ Daily leetcode/gfg practice solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
