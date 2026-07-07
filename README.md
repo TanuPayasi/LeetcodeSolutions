@@ -26,6 +26,7 @@ Daily leetcode/gfg practice solutions
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0133-clone-graph/) | Medium |
 | [0279-perfect-squares](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -78,5 +79,14 @@ Daily leetcode/gfg practice solutions
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0133-clone-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0133-clone-graph/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
