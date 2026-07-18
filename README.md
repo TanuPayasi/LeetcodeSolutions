@@ -46,6 +46,7 @@ Daily leetcode/gfg practice solutions
 | [0322-coin-change](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0542-01-matrix](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0542-01-matrix/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Matrix
@@ -93,6 +94,7 @@ Daily leetcode/gfg practice solutions
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0133-clone-graph](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0133-clone-graph/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,8 @@ Daily leetcode/gfg practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
