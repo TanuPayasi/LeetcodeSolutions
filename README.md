@@ -35,6 +35,7 @@ Daily leetcode/gfg practice solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0063-unique-paths-ii](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0120-triangle/) | Medium |
@@ -88,6 +89,7 @@ Daily leetcode/gfg practice solutions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0133-clone-graph](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0133-clone-graph/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
