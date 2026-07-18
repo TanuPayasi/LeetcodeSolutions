@@ -41,6 +41,7 @@ Daily leetcode/gfg practice solutions
 | [0120-triangle](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0377-combination-sum-iv/) | Medium |
@@ -57,6 +58,7 @@ Daily leetcode/gfg practice solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Sliding Window
@@ -95,4 +97,12 @@ Daily leetcode/gfg practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0133-clone-graph/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
