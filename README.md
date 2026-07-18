@@ -6,6 +6,7 @@ Daily leetcode/gfg practice solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0279-perfect-squares/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ Daily leetcode/gfg practice solutions
 | [0120-triangle](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0268-missing-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0322-coin-change/) | Medium |
@@ -59,6 +61,7 @@ Daily leetcode/gfg practice solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -94,6 +97,7 @@ Daily leetcode/gfg practice solutions
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0133-clone-graph](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0133-clone-graph/) | Medium |
+| [0268-missing-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -106,9 +110,11 @@ Daily leetcode/gfg practice solutions
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanuPayasi/LeetcodeSolutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
